@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d2bfb81-4194-41a7-ae54-2480327763bb" name="Changes" comment="" />
+    <list default="true" id="5d2bfb81-4194-41a7-ae54-2480327763bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="arn:aws:eks:ap-northeast-2:258940266227:cluster/cf-staging-01" />
@@ -26,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/akshanshgusain/Downloads/wix",
+    "last_opened_file_path": "/Users/akshanshgusain/WorksDir/p69/p69-product-page",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,6 +49,7 @@
       <updated>1676360154727</updated>
       <workItem from="1676360155819" duration="6000" />
       <workItem from="1676360164165" duration="11107000" />
+      <workItem from="1679295316551" duration="110000" />
     </task>
     <servers />
   </component>
